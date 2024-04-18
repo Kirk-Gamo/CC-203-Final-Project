@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// Code by Steven-ahjussi
 class DeptnotifyProgramInfo {
     private:
         string welcomeMessage = "Welcome to Deptnotify++ \n";
